@@ -9,6 +9,8 @@
 #include <map>
 #include <set>
 #include <regex>
+#include <chrono>
+#include <algorithm>
 
 // Declare the maps globally so they can be used in main.cpp
 extern std::map<std::string, std::pair<int, std::set<int>>> word_map;
