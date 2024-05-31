@@ -1,12 +1,3 @@
-#include <iostream>
-#include <fstream>
-#include <sstream>
-#include <string>
-#include <cctype>
-#include <map>
-#include <set>
-#include <regex>
-#include <chrono>
 #include "functions.h"
 
 int main() {
